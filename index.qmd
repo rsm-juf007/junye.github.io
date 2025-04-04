@@ -1,19 +1,30 @@
----
-title: "Junye Fan"
-image: photo.JPG
-about:
-  template: jolla
-  links:
-    - icon: envelope
-      text: E-mail
-      href: "mailto:juf007@ucsd.edu"
-    - icon: linkedin
-      text: Linkedin
-      href: https://www.linkedin.com/in/junyefan/
----
+<div style="display: flex; align-items: center; gap: 2rem;">
 
-## 👋 About Me
-_简要介绍你是谁，你目前的身份（学生/专业），你感兴趣的方向_
+<!-- 左侧：照片 -->
+<img src="photo.JPG" alt="Junye Fan" style="width: 180px; border-radius: 50%; box-shadow: 0 0 5px #ccc;" />
+
+<!-- 右侧：简介 -->
+<div>
+
+## 👋 Introduction
+
+Hi, my name is **Junye Fan**. With a bachelor degree of Economics, I am currently pursuing my Master’s degree in Business Analytics at the University of California, San Diego.
+
+</div>
+</div>
+
+## 🎓 Education
+**University of California - San Diego: Master of Science in Business Analytics**
+
+
+## 🎥 My Story
+My favorite part of my academic and professional journey has been combining my business knowledge with data analytics to solve real-world problems. During my undergraduate studies in economics, I developed a strong foundation in data analysis techniques, learning key skills in SQL, business statistics and econometrics. However, I realized that hands-on experience was essential to applying these skills effectively, so I tried opportunities to intern with top organizations.
+
+In my recent internship at Hellobike, one of China’s largest mobility platforms, I utilized SQL and Tableau to create dashboards that made complex data accessible and actionable for stakeholders. By conducting A/B testing and statistical analysis, I optimized user interface design, resulting in an 8.68% increase in click-through rates. 
+
+This experience underscored the importance of understanding user needs and translating data insights into clear, data-driven recommendations. Collaborating closely with cross-functional teams, I honed my ability to communicate complex data insights in an easily understandable way, further aligning our strategies with business goals.
+
+Now, as a Master’s student in Business Analytics, I am deepening my technical expertise and learning to leverage big data tools like Python, SQL, and cloud-hosted databases. I am excited about the opportunity to bring my skills in data analytics and my experience in client-focused solutions to industries and empower consumers and businesses to make informed decisions and thrive.
 
 ## 🎓 Education
 _列出你目前或过去的教育经历_
@@ -23,9 +34,3 @@ _列出你熟练掌握的技术工具，如 Python, R, SQL, Tableau 等_
 
 ## 📂 Projects
 _挑选你代表性的一两个项目，并提供简短介绍_
-
-```{python}
-import pandas as pd
-
-```
-MGTA 495 Week1
