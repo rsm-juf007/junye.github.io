@@ -1,0 +1,20 @@
+/* css styles */
+h1, h2, h3 {
+    color: #2c3e50;
+  }
+  
+  a {
+    color: #0077cc;
+  }
+  
+  .button {
+    background-color: #0077cc;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .button:hover {
+    background-color: #005fa3;
+  }

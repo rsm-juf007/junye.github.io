@@ -1,0 +1,12 @@
+{
+  "hash": "8955bb6ac571ee39109f0c6ad9bbef36",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Junye Fan\"\nimage: photo.JPG\nabout:\n  template: jolla\n  links:\n    - icon: envelope\n      text: E-mail\n      href: \"mailto:juf007@ucsd.edu\"\n    - icon: linkedin\n      text: Linkedin\n      href: https://www.linkedin.com/in/junyefan/\n---\n\n\n## 👋 About Me\n_简要介绍你是谁，你目前的身份（学生/专业），你感兴趣的方向_\n\n## 🎓 Education\n_列出你目前或过去的教育经历_\n\n## 🛠 Skills\n_列出你熟练掌握的技术工具，如 Python, R, SQL, Tableau 等_\n\n## 📂 Projects\n_挑选你代表性的一两个项目，并提供简短介绍_\n\n::: {#e7ba1e2b .cell execution_count=1}\n``` {.python .cell-code}\nimport pandas as pd\n```\n:::\n\n\nMGTA 495 Week1\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

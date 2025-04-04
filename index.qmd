@@ -1,0 +1,31 @@
+---
+title: "Junye Fan"
+image: photo.JPG
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: E-mail
+      href: "mailto:juf007@ucsd.edu"
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/junyefan/
+---
+
+## 👋 About Me
+_简要介绍你是谁，你目前的身份（学生/专业），你感兴趣的方向_
+
+## 🎓 Education
+_列出你目前或过去的教育经历_
+
+## 🛠 Skills
+_列出你熟练掌握的技术工具，如 Python, R, SQL, Tableau 等_
+
+## 📂 Projects
+_挑选你代表性的一两个项目，并提供简短介绍_
+
+```{python}
+import pandas as pd
+
+```
+MGTA 495 Week1

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Junye Fan",
+    "section": "",
+    "text": "简要介绍你是谁，你目前的身份（学生/专业），你感兴趣的方向"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF file."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Junye Fan",
+    "section": "",
+    "text": "简要介绍你是谁，你目前的身份（学生/专业），你感兴趣的方向"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Junye Fan",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n列出你目前或过去的教育经历"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Junye Fan",
+    "section": "🛠 Skills",
+    "text": "🛠 Skills\n列出你熟练掌握的技术工具，如 Python, R, SQL, Tableau 等"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Junye Fan",
+    "section": "📂 Projects",
+    "text": "📂 Projects\n挑选你代表性的一两个项目，并提供简短介绍\n\nimport pandas as pd\n\nMGTA 495 Week1"
+  }
+]
