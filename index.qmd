@@ -10,6 +10,7 @@
 
 Hi, my name is **Junye Fan**. With a bachelor degree of Economics, I am currently pursuing my Master’s degree in Business Analytics at the University of California, San Diego.
 
+
 </div>
 </div>
 
@@ -34,3 +35,8 @@ _列出你熟练掌握的技术工具，如 Python, R, SQL, Tableau 等_
 
 ## 📂 Projects
 _挑选你代表性的一两个项目，并提供简短介绍_
+
+## 📬 Contact
+
+[📧 E-mail](mailto:juf007@ucsd.edu){.button}
+[🔗 LinkedIn](https://www.linkedin.com/in/junyefan/){.button}
