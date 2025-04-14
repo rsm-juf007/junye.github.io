@@ -32,7 +32,7 @@
     "href": "index.html#skills",
     "title": "Junye's Website",
     "section": "🛠 Skills",
-    "text": "🛠 Skills\n列出你熟练掌握的技术工具，如 Python, R, SQL, Tableau 等"
+    "text": "🛠 Skills\n\nQuery Languages: SQL\n\nAnalytics & Modeling: Python, R, Alteryx, MATLAB, STATA\n\nFront-End: JavaScript, HTML\n\nData Visualization: Tableau\n\nOthers: A/B Testing, Industry Research"
   },
   {
     "objectID": "index.html#projects",
@@ -67,7 +67,7 @@
     "href": "index.html#education-1",
     "title": "Junye's Website",
     "section": "🎓 Education",
-    "text": "🎓 Education\n列出你目前或过去的教育经历"
+    "text": "🎓 Education\n\nUniversity of California, San Diego\nMaster of Science in Business Analytics\nShanghai Normal University\nBachelor of Economics in Economics"
   },
   {
     "objectID": "index.html#contact",
