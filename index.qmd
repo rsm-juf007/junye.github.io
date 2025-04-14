@@ -15,7 +15,11 @@ Hi, my name is **Junye Fan**. With a bachelor degree of Economics, I am currentl
 </div>
 
 ## 🎓 Education
-**University of California - San Diego: Master of Science in Business Analytics**
+- **University of California, San Diego**  
+  _Master of Science in Business Analytics_
+
+- **Shanghai Normal University**  
+  _Bachelor of Economics in Economics_
 
 
 ## 🎥 My Story
@@ -26,14 +30,6 @@ In my recent internship at Hellobike, one of China’s largest mobility platform
 This experience underscored the importance of understanding user needs and translating data insights into clear, data-driven recommendations. Collaborating closely with cross-functional teams, I honed my ability to communicate complex data insights in an easily understandable way, further aligning our strategies with business goals.
 
 Now, as a Master’s student in Business Analytics, I am deepening my technical expertise and learning to leverage big data tools like Python, SQL, and cloud-hosted databases. I am excited about the opportunity to bring my skills in data analytics and my experience in client-focused solutions to industries and empower consumers and businesses to make informed decisions and thrive.
-
-## 🎓 Education
-
-- **University of California, San Diego**  
-  _Master of Science in Business Analytics_
-
-- **Shanghai Normal University**  
-  _Bachelor of Economics in Economics_
 
 
 ## 🛠 Skills
