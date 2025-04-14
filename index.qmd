@@ -28,13 +28,20 @@ This experience underscored the importance of understanding user needs and trans
 Now, as a Master’s student in Business Analytics, I am deepening my technical expertise and learning to leverage big data tools like Python, SQL, and cloud-hosted databases. I am excited about the opportunity to bring my skills in data analytics and my experience in client-focused solutions to industries and empower consumers and businesses to make informed decisions and thrive.
 
 ## 🎓 Education
-_列出你目前或过去的教育经历_
+
+- **University of California, San Diego**  
+  _Master of Science in Business Analytics_
+
+- **Shanghai Normal University**  
+  _Bachelor of Economics in Economics_
+
 
 ## 🛠 Skills
-_列出你熟练掌握的技术工具，如 Python, R, SQL, Tableau 等_
-
-## 📂 Projects
-_挑选你代表性的一两个项目，并提供简短介绍_
+- **Query Languages**: SQL  
+- **Analytics & Modeling**: Python, R, Alteryx, MATLAB, STATA  
+- **Front-End**: JavaScript, HTML  
+- **Data Visualization**: Tableau  
+- **Others**: A/B Testing, Industry Research
 
 ## 📬 Contact
 
