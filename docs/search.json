@@ -7,18 +7,11 @@
     "text": "Hi, my name is Junye Fan. With a bachelor degree of Economics, I am currently pursuing my Master’s degree in Business Analytics at the University of California, San Diego."
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Junye's Website",
     "section": "",
-    "text": "Download PDF file."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Junye Fan",
-    "section": "",
-    "text": "简要介绍你是谁，你目前的身份（学生/专业），你感兴趣的方向"
+    "text": "Hi, my name is Junye Fan. With a bachelor degree of Economics, I am currently pursuing my Master’s degree in Business Analytics at the University of California, San Diego."
   },
   {
     "objectID": "index.html#education",
@@ -28,34 +21,6 @@
     "text": "🎓 Education\n\nUniversity of California, San Diego\nMaster of Science in Business Analytics\nShanghai Normal University\nBachelor of Economics in Economics"
   },
   {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Junye's Website",
-    "section": "🛠 Skills",
-    "text": "🛠 Skills\n\nQuery Languages: SQL\n\nAnalytics & Modeling: Python, R, Alteryx, MATLAB, STATA\n\nFront-End: JavaScript, HTML\n\nData Visualization: Tableau\n\nOthers: A/B Testing, Industry Research"
-  },
-  {
-    "objectID": "index.html#projects",
-    "href": "index.html#projects",
-    "title": "Junye's Website",
-    "section": "📂 Projects",
-    "text": "📂 Projects\n挑选你代表性的一两个项目，并提供简短介绍"
-  },
-  {
-    "objectID": "index.html#introduction",
-    "href": "index.html#introduction",
-    "title": "Junye's Website",
-    "section": "",
-    "text": "Hi, my name is Junye Fan. With a bachelor degree of Economics, I am currently pursuing my Master’s degree in Business Analytics at the University of California, San Diego."
-  },
-  {
-    "objectID": "index.html#introduction-1",
-    "href": "index.html#introduction-1",
-    "title": "Junye's Website",
-    "section": "👋 Introduction",
-    "text": "👋 Introduction\nHi, my name is Junye Fan, and I am currently pursuing my Master’s degree in Business Analytics at the University of California, San Diego.\nMy favorite part of my academic and professional journey has been combining my business knowledge with data analytics to solve real-world problems. During my undergraduate studies in economics, I developed a strong foundation in data analysis techniques, learning key skills in SQL, business statistics and econometrics. However, I realized that hands-on experience was essential to applying these skills effectively, so I tried opportunities to intern with top organizations.\nIn my recent internship at Hellobike, one of China’s largest mobility platforms, I utilized SQL and Tableau to create dashboards that made complex data accessible and actionable for stakeholders. By conducting A/B testing and statistical analysis, I optimized user interface design, resulting in an 8.68% increase in click-through rates. This experience underscored the importance of understanding user needs and translating data insights into clear, data-driven recommendations. Collaborating closely with cross-functional teams, I honed my ability to communicate complex data insights in an easily understandable way, further aligning our strategies with business goals.\nNow, as a Master’s student in Business Analytics, I am deepening my technical expertise and learning to leverage big data tools like Python, SQL, and cloud-hosted databases. I am excited about the opportunity to bring my skills in data analytics and my experience in client-focused solutions to industries and empower consumers and businesses to make informed decisions and thrive."
-  },
-  {
     "objectID": "index.html#my-story",
     "href": "index.html#my-story",
     "title": "Junye's Website",
@@ -63,11 +28,11 @@
     "text": "🎥 My Story\nMy favorite part of my academic and professional journey has been combining my business knowledge with data analytics to solve real-world problems. During my undergraduate studies in economics, I developed a strong foundation in data analysis techniques, learning key skills in SQL, business statistics and econometrics. However, I realized that hands-on experience was essential to applying these skills effectively, so I tried opportunities to intern with top organizations.\nIn my recent internship at Hellobike, one of China’s largest mobility platforms, I utilized SQL and Tableau to create dashboards that made complex data accessible and actionable for stakeholders. By conducting A/B testing and statistical analysis, I optimized user interface design, resulting in an 8.68% increase in click-through rates.\nThis experience underscored the importance of understanding user needs and translating data insights into clear, data-driven recommendations. Collaborating closely with cross-functional teams, I honed my ability to communicate complex data insights in an easily understandable way, further aligning our strategies with business goals.\nNow, as a Master’s student in Business Analytics, I am deepening my technical expertise and learning to leverage big data tools like Python, SQL, and cloud-hosted databases. I am excited about the opportunity to bring my skills in data analytics and my experience in client-focused solutions to industries and empower consumers and businesses to make informed decisions and thrive."
   },
   {
-    "objectID": "index.html#education-1",
-    "href": "index.html#education-1",
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
     "title": "Junye's Website",
-    "section": "🎓 Education",
-    "text": "🎓 Education\n\nUniversity of California, San Diego\nMaster of Science in Business Analytics\nShanghai Normal University\nBachelor of Economics in Economics"
+    "section": "🛠 Skills",
+    "text": "🛠 Skills\n\nQuery Languages: SQL\n\nAnalytics & Modeling: Python, R, Alteryx, MATLAB, STATA\n\nFront-End: JavaScript, HTML\n\nData Visualization: Tableau\n\nOthers: A/B Testing, Industry Research"
   },
   {
     "objectID": "index.html#contact",
@@ -75,5 +40,12 @@
     "title": "Junye's Website",
     "section": "📬 Contact",
     "text": "📬 Contact\n📧 E-mail 🔗 LinkedIn"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF file."
   }
 ]
