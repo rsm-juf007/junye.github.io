@@ -10,14 +10,22 @@ website:
         text: About
       - href: resume.qmd
         text: Resume
+      - href: HW1/hw1_questions.qmd
+        text: HW1
+
+# format:
+#   html:
+#     theme:
+#       - cosmo
+#       - brand
+#     css: styles.css
+#     toc: true
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
     toc: true
+    toc-depth: 2
+    number-sections: false
 
 
 
