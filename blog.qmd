@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 listing:
-  contents: blog
+  contents: HW1
   type: grid
   sort: "date desc"
   categories: false
