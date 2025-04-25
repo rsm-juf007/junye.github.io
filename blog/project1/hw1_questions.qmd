@@ -173,7 +173,7 @@ I begin by analyzing whether receiving a matching donation offer increases the l
 
 <!-- _todo: make a barplot with two bars. Each bar is the proportion of people who donated. One bar for treatment and one bar for control._ -->
 
-![Proportion of People Who Donated](/HW1/proportion_donated_by_group.png)
+![Proportion of People Who Donated](proportion_donated_by_group.png)
 
 :::: {.callout-note collapse="true"}
 ### plot code
@@ -194,7 +194,7 @@ plt.ylim(0, 0.03)
 plt.grid(axis='y', linestyle='--')
 plt.tight_layout()
 
-plt.savefig('HW1/proportion_donated_by_group.png')
+plt.savefig('proportion_donated_by_group.png')
 plt.show()
 ```
 ::::
@@ -370,8 +370,8 @@ This implies that the treatment’s impact was primarily at the **extensive marg
 
 Below are two histograms showing the distribution of donation amounts among donors, separated by treatment group. The red dashed line represents the group mean.
 
-![Treatment Group Donation Histogram](/HW1/hist_treatment.png)
-![Control Group Donation Histogram](/HW1/hist_control.png)
+![Treatment Group Donation Histogram](hist_treatment.png)
+![Control Group Donation Histogram](hist_control.png)
 
 
 :::: {.callout-note collapse="true"}
@@ -388,7 +388,7 @@ plt.xlabel("Donation Amount")
 plt.ylabel("Frequency")
 plt.legend()
 plt.tight_layout()
-plt.savefig("/Users/junyefan/Desktop/Graduate/Course/2025_Spring/MGTA_495_Marketing_Analytics/Week1/quartosite/HW1/hist_treatment.png")
+plt.savefig("hist_treatment.png")
 plt.show()
 
 plt.figure(figsize=(6,4))
@@ -399,7 +399,7 @@ plt.xlabel("Donation Amount")
 plt.ylabel("Frequency")
 plt.legend()
 plt.tight_layout()
-plt.savefig("/Users/junyefan/Desktop/Graduate/Course/2025_Spring/MGTA_495_Marketing_Analytics/Week1/quartosite/HW1/hist_control.png")
+plt.savefig("hist_control.png")
 plt.show()
 ```
 ::::
@@ -431,7 +431,7 @@ To demonstrate the Law of Large Numbers, I simulate two groups:
 I draw 10,000 samples from each distribution and calculate the difference in donation outcome (1 or 0) for each pair. Then I compute the **cumulative average** of these 10,000 differences and plot the result below:
 
 
-![Law of Large Numbers Simulation](/HW1/law.png)
+![Law of Large Numbers Simulation](law.png)
 
 :::: {.callout-note collapse="true"}
 ### plot code
@@ -474,7 +474,7 @@ To demonstrate the Central Limit Theorem (CLT), I simulate the difference in don
 
 - At n = 1000, the distribution is tightly centered around 0.004, and zero is clearly in the left tail, indicating a consistent positive treatment effect.
 
-![CLT Simulation](/HW1/clt.png)
+![CLT Simulation](clt.png)
 
 :::: {.callout-note collapse="true"}
 ### plot code
